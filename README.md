@@ -1,0 +1,1 @@
+Simple program for creating dictionary from text by regular expression and replacing words or sentences using created dictionary.
